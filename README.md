@@ -1,1 +1,31 @@
-# readme
+## Добро пожаловать на мою страницу!
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=V-Levchenkov&show_icons=true)
+
+⚡ My top Lang:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V-Levchenkov&layout=compact)
+
+---
+Где меня найти:
+
+<a href="https://t.me/BannovDaniil"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+
+## 👉 [Мое резюме на HH.ru](https://hh.ru/resume/bcf6853aff0968edc50039ed1f3338735a3263) 👈
+[https://spb.hh.ru/resume/2e72d375ff0ae0a8d10039ed1f6334306e374e](https://spb.hh.ru/resume/2e72d375ff0ae0a8d10039ed1f6334306e374e)
+
+
+<!--
+**V-Levchenkov/readme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
