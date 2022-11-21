@@ -9,7 +9,7 @@
 ---
 Где меня найти:
 
-<a href="https://t.me/BannovDaniil"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://t.me/v_levchenkov"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 ## 👉 [Мое резюме на HH.ru](https://hh.ru/resume/bcf6853aff0968edc50039ed1f3338735a3263) 👈
 [https://spb.hh.ru/resume/2e72d375ff0ae0a8d10039ed1f6334306e374e](https://spb.hh.ru/resume/2e72d375ff0ae0a8d10039ed1f6334306e374e)
