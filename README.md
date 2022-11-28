@@ -31,3 +31,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Technology stack:
+-
+![](media/programm/java_original_wordmark_logo_icon_146459.png)
+![](media/programm/docker_original_wordmark_logo_icon_146557.png)
+![](media/programm/git_original_wordmark_logo_icon_146510.png)
+![](media/programm/intellij_macos_bigsur_icon_190061.png)
+![](media/programm/maven.png)
+![](media/programm/postgresql_original_wordmark_logo_icon_146392.png)
+![](media/programm/spring-logo.width-1024.medium.png)
