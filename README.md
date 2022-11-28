@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 
 Technology stack:
 -
-![](https://github.com/V-Levchenkov/V-Levchenkov/blob/main/java_original_wordmark_logo_icon_146459.png)
+![](https://github.com/V-Levchenkov/V-Levchenkov/blob/main/logo.png)
