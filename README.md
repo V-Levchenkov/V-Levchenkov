@@ -1,4 +1,21 @@
-## Добро пожаловать на мою страницу!
+<h1 align="center">Привет, меня завут Вячеслав.<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Программирую на <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-bage&logo=java&logoColor=white" height="24"/>, сейчас начал осваивать фронт, в частности JavaFX и верстку Html</h3>  
+
+Закончил Яндекс.Практикум по направлению Java-разработчик. Вот некоторые из моих проектов:
+
+##### Сервис по аренде вещей
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sergey-oreshkin&repo=java-shareit)](https://github.com/sergey-oreshkin/java-shareit)   
+Учебный проект. Из интересного - была задача снизить нагрузку на основной сервер от невалидных запросов - сделал перед сервисом gateway на `WebFlux` с валидацией . Вот так немного познакомился с реактивщиной в спринге..
+
+##### Сервис по публикации событий и поиска компании для участии в этих событиях
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sergey-oreshkin&repo=java-explore-with-me)](https://github.com/sergey-oreshkin/java-explore-with-me)  
+Тоже учебный проект. Использовал, кроме обычного спрингового стека, <img src="https://mapstruct.org/images/mapstruct.png" height="24"/> и <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmXYhL7a6aMBFPBkPpzjf6EcD06vHZ_zBOq5ny7pCv&s" height="24"/>. Пришлось поглубже копнуть `CriteriaApi` и `EntityGraph` 
+
+##### Сервис для добавления, оценки и рекомендации фильмов на основе общих предпочтений.   
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=V-Levchenkov&repo=Filmorate)](https://github.com/V-Levchenkov/Filmorate?)   
+Основа проекта на `Spring Boot и JdbcTemplate` написана мной. Дополнительные фичи - разрабатывались группой разработчиков под моим руководством.
+В группе в основновном занимался разрешением мёрдж конфликтов в гите, ревью кода. Разработал общие правила репозитория.   
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=V-Levchenkov&show_icons=true)
 
