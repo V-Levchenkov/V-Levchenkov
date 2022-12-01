@@ -14,7 +14,7 @@
 ##### Сервис для добавления, оценки и рекомендации фильмов на основе общих предпочтений.   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=V-Levchenkov&repo=Filmorate)](https://github.com/V-Levchenkov/Filmorate?)   
 Основа проекта на `Spring Boot и JdbcTemplate` написана мной. Дополнительные фичи - разрабатывались группой разработчиков.
-В группе выполнял разработку внедрения требуемых решений по ТЗ, ревью кода и помогал в решение пробелм с конфликтами.   
+В группе выполнял разработку требоаваний по ТЗ(добавление рейтингов и друзей), ревью кода и помогал в решении конфликтов merge.   
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=V-Levchenkov&show_icons=true)
