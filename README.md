@@ -4,7 +4,7 @@
 Закончил Яндекс.Практикум по направлению Java-разработчик. Вот некоторые из моих проектов:
 
 ##### Сервис по публикации событий и поиска компании для участии в этих событиях
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=V-Levchenkov&repo=java-explore-with-me)](https://github.com/V-Levchenkov/java-explore-with-me)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=V-Levchenkov&repo=ExploreWithMe)](https://github.com/V-Levchenkov/ExploreWithMe)  
 Тоже учебный проект. Данный проект для защиты диплома, в нем использована большая часть стека из обучения, таких как Spring, Docker, Postman, PostgreSQL, REST-API и т.д.(Весь использованый стек в описании проекта)
 
 ##### Сервис по аренде вещей
@@ -24,7 +24,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V-Levchenkov&layout=compact)
 
 ---
-Где меня найти:
+Я в соцсетях:
 
 <a href="https://t.me/v_levchenkov"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="https://vk.com/v.Levchenkovv"><img src="https://vk.com/images/icons/favicons/fav_logo.ico?6" width="30"></a>
