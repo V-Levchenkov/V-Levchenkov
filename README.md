@@ -10,7 +10,7 @@
 Где меня найти:
 
 <a href="https://t.me/v_levchenkov"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a href="https://vk.com/v.l.evchenkov"><img src="https://vk.com/images/icons/favicons/fav_logo.ico?6" width="30"></a>
+<a href="https://vk.com/v.Levchenkovv"><img src="https://vk.com/images/icons/favicons/fav_logo.ico?6" width="30"></a>
 <a href="https://www.linkedin.com/in/v-levchenkov"><img src="https://static-exp1.licdn.com/sc/h/akt4ae504epesldzj74dzred8" width="30"></a>
 
 ## 👉 [Мое резюме на HH.ru](https://spb.hh.ru/resume/2e72d375ff0ae0a8d10039ed1f6334306e374e) 👈
