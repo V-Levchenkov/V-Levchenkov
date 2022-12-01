@@ -3,18 +3,18 @@
 
 Закончил Яндекс.Практикум по направлению Java-разработчик. Вот некоторые из моих проектов:
 
-##### Сервис по аренде вещей
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sergey-oreshkin&repo=java-shareit)](https://github.com/sergey-oreshkin/java-shareit)   
-Учебный проект. Из интересного - была задача снизить нагрузку на основной сервер от невалидных запросов - сделал перед сервисом gateway на `WebFlux` с валидацией . Вот так немного познакомился с реактивщиной в спринге..
-
 ##### Сервис по публикации событий и поиска компании для участии в этих событиях
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sergey-oreshkin&repo=java-explore-with-me)](https://github.com/sergey-oreshkin/java-explore-with-me)  
-Тоже учебный проект. Использовал, кроме обычного спрингового стека, <img src="https://mapstruct.org/images/mapstruct.png" height="24"/> и <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmXYhL7a6aMBFPBkPpzjf6EcD06vHZ_zBOq5ny7pCv&s" height="24"/>. Пришлось поглубже копнуть `CriteriaApi` и `EntityGraph` 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=V-Levchenkov&repo=java-explore-with-me)](https://github.com/V-Levchenkov/java-explore-with-me)  
+Тоже учебный проект. Данный проект для защиты диплома, в нем использована большая часть стека из обучения, таких как Spring, Docker, Postman, PostgreSQL, REST-API и т.д.(Весь использованый стек в описании проекта)
+
+##### Сервис по аренде вещей
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=V-Levchenkov&repo=java-shareit)](https://github.com/V-Levchenkov/Shareit)   
+Учебный проект. Из интересного - внедрение в проект Spring Data JPA, главная цель проекта освоение работы с базами данных, работой на сервере и с логированием.
 
 ##### Сервис для добавления, оценки и рекомендации фильмов на основе общих предпочтений.   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=V-Levchenkov&repo=Filmorate)](https://github.com/V-Levchenkov/Filmorate?)   
-Основа проекта на `Spring Boot и JdbcTemplate` написана мной. Дополнительные фичи - разрабатывались группой разработчиков под моим руководством.
-В группе в основновном занимался разрешением мёрдж конфликтов в гите, ревью кода. Разработал общие правила репозитория.   
+Основа проекта на `Spring Boot и JdbcTemplate` написана мной. Дополнительные фичи - разрабатывались группой разработчиков.
+В группе выполнял разработку внедрения требуемых решений по ТЗ, ревью кода и помогал в решение пробелм с конфликтами.   
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=V-Levchenkov&show_icons=true)
